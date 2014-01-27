@@ -1,0 +1,8 @@
+<playlist version="1">
+<trackList>
+<track>
+<location>javascript:alert(1)</location>
+<title>XSS</title>
+</track>
+</trackList>
+</playlist>
